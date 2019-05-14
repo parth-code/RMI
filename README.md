@@ -1,6 +1,6 @@
 # RMI
 
-Java RMI(Remote Method Invocation) proof of concept.
+Java RMI(*Remote Method Invocation*) proof of concept.
 
 Run using 
 
